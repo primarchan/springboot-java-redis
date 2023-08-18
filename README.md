@@ -8,6 +8,10 @@
   - `Redis` 를 활용한 `Session Clustering`
 - demo3
   - 서비스의 속도를 높이는 `Cache Layer` 구성 및 `Spring Caching` 연동
+- LeaderBoard
+  - Redis Sorted Sets 기반 게임 LeaderBoard 프로젝트
+- PubSubChat
+  - Pub/Sub 기반 채팅 기능 프로젝트
 
 ## TECH STACK
 - Java 8
