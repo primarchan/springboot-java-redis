@@ -1,6 +1,12 @@
 # Redis 기반 Game Leader Board 프로젝트
 
 ## TECH STACK
+- Java 8
+- JDK 1.8 (Amazon Corretto Version 1.8.0_352)
+- Spring Boot 2.7.14
+- Spring Data Redis
+- Gradle
+- IntelliJ IDEA Ultimate
 
 ## INSTALLATION
 - Docker 를 이용한 Redis 기동 가이드
